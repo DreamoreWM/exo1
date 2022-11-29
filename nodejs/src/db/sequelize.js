@@ -40,7 +40,7 @@ const initDb = async () => {
     await sequelize.sync({force:true}).then(()=>{
             Fonction.create({
                 nom : 'ADMIN', 
-                commentaires:  "Administrateur du site"
+                commentaires:  "Adminitrateur du site"
             }),
             Fonction.create({
                 nom : 'DEV', 

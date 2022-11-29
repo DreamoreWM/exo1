@@ -1,1 +1,4 @@
-./nodejs/src/db/sequelize.js
+
+/nodejs/src/db/sequelize.js
+/nodejs/src/db/*.js
+
