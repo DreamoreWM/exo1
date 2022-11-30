@@ -1,4 +1,3 @@
 
 /nodejs/src/db/sequelize.js
 /nodejs/src/db/*.js
-node_modules/
